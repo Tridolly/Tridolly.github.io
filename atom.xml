@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tridolly.github.io/"/>
-  <updated>2018-03-19T13:48:48.251Z</updated>
+  <updated>2018-03-19T14:45:18.649Z</updated>
   <id>https://tridolly.github.io/</id>
   
   <author>
@@ -21,9 +21,18 @@
     <link href="https://tridolly.github.io/2018/03/19/Two-Pics/"/>
     <id>https://tridolly.github.io/2018/03/19/Two-Pics/</id>
     <published>2018-03-19T13:48:48.000Z</published>
-    <updated>2018-03-19T13:48:48.251Z</updated>
+    <updated>2018-03-19T14:45:18.649Z</updated>
+    
+    <content type="html"><![CDATA[<p>#Welcome to my first blog<br>This is my first time to write blog, I use <strong>Markdown</strong> to write my blog:</p><blockquote><ul><li>First to see you</li><li>Maybe you dont know me</li></ul></blockquote><p>This is a little demo, see you next time</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;#Welcome to my first blog&lt;br&gt;This is my first time to write blog, I use &lt;strong&gt;Markdown&lt;/strong&gt; to write my blog:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+      
     
     </summary>
     
